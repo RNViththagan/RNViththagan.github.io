@@ -134,12 +134,12 @@ export default function Hero() {
                                 }}
                             >
                                 <Link
-                                    href="https://wso2.com/"
+                                    href="https://choreolabs.com/"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className=""
                                 >
-                                    @WSO2
+                                    @Choreo Labs
                                 </Link>
                             </motion.span>
                         </motion.h2>
